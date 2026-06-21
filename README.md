@@ -72,3 +72,10 @@ This repository and all linked projects are licensed under the [MIT License](./L
 
 > _Built with passion for open source, web analytics, and digital success._  
 > _— Kirankumarvel_
+
+---
+
+## Credits
+
+This repository was mirrored from [https://github.com/Kirankumarvel/seo-projects-hub](https://github.com/Kirankumarvel/seo-projects-hub).
+All credit goes to the original authors.
